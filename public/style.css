@@ -1,0 +1,9 @@
+.dark {
+    background-color: #21262d;
+    color: #fefdee;
+    text-align: center;
+}
+.dark a {
+    text-decoration: none;
+    color: #c2bb55;
+}
